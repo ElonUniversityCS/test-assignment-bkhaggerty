@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub 
+# :wave: Brendan Haggerty' Welcome to GIT 
 
 ## 🤓 Course overview and learning outcomes 
 
