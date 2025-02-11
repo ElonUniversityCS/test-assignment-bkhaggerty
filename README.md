@@ -1,4 +1,4 @@
-# :wave: Brendan Haggerty' Welcome to GIT 
+# :wave: Welcome to Brendan's GIT
 
 ## 🤓 Course overview and learning outcomes 
 
